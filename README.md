@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/AahilNouman/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AahilNouman/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/AahilNouman/DSA/tree/master/0344-reverse-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/AahilNouman/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/AahilNouman/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AahilNouman/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
